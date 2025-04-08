@@ -1,0 +1,14 @@
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\bin\Debug\net9.0\TestFunction.exe
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\bin\Debug\net9.0\TestFunction.deps.json
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\bin\Debug\net9.0\TestFunction.runtimeconfig.json
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\bin\Debug\net9.0\TestFunction.dll
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\bin\Debug\net9.0\TestFunction.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.AssemblyInfoInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.AssemblyInfo.cs
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.csproj.CoreCompileInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.dll
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\refint\TestFunction.dll
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\TestFunction.genruntimeconfig.cache
+C:\P\MyFirstRiderProjectCnsoleApp\TestFunction\obj\Debug\net9.0\ref\TestFunction.dll

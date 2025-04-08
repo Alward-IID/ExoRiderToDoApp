@@ -1,0 +1,14 @@
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\bin\Debug\net9.0\FirstRider.exe
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\bin\Debug\net9.0\FirstRider.deps.json
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\bin\Debug\net9.0\FirstRider.runtimeconfig.json
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\bin\Debug\net9.0\FirstRider.dll
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\bin\Debug\net9.0\FirstRider.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.GeneratedMSBuildEditorConfig.editorconfig
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.AssemblyInfoInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.AssemblyInfo.cs
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.csproj.CoreCompileInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.dll
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\refint\FirstRider.dll
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\FirstRider.genruntimeconfig.cache
+C:\P\MyFirstRiderProjectCnsoleApp\FirstRider\obj\Debug\net9.0\ref\FirstRider.dll

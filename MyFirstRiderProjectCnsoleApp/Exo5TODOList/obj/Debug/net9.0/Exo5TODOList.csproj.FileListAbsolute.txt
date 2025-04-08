@@ -1,0 +1,14 @@
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\bin\Debug\net9.0\Exo5TODOList.exe
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\bin\Debug\net9.0\Exo5TODOList.deps.json
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\bin\Debug\net9.0\Exo5TODOList.runtimeconfig.json
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\bin\Debug\net9.0\Exo5TODOList.dll
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\bin\Debug\net9.0\Exo5TODOList.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.GeneratedMSBuildEditorConfig.editorconfig
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.AssemblyInfoInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.AssemblyInfo.cs
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.csproj.CoreCompileInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.dll
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\refint\Exo5TODOList.dll
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\Exo5TODOList.genruntimeconfig.cache
+C:\P\MyFirstRiderProjectCnsoleApp\Exo5TODOList\obj\Debug\net9.0\ref\Exo5TODOList.dll

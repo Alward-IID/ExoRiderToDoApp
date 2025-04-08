@@ -1,0 +1,14 @@
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfoInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.AssemblyInfo.cs
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\bin\Debug\net9.0\StringBuilder.exe
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\bin\Debug\net9.0\StringBuilder.deps.json
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\bin\Debug\net9.0\StringBuilder.runtimeconfig.json
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\bin\Debug\net9.0\StringBuilder.dll
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\bin\Debug\net9.0\StringBuilder.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.dll
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\refint\StringBuilder.dll
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.pdb
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\StringBuilder.genruntimeconfig.cache
+C:\P\MyFirstRiderProjectCnsoleApp\StringBuilder\obj\Debug\net9.0\ref\StringBuilder.dll
